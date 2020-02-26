@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: pchen2145/podinfo
-      tag: dev-2rp4ll6f
+      tag: dev-eh18k4zy
     replicaCount: 1
     hpa:
       enabled: false
